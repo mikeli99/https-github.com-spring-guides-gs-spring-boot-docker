@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/my26dot2/azurepipelinedemo/_apis/build/status/mikeli99.https-github.com-spring-guides-gs-spring-boot-docker?branchName=master)](https://dev.azure.com/my26dot2/azurepipelinedemo/_build/latest?definitionId=2&branchName=master)
+
 :spring_version: current
 :toc:
 :project_id: gs-spring-boot-docker
